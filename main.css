@@ -1,0 +1,74 @@
+
+@font-face {
+        font-family: 'Proto Grotesk';
+         src: local('☺️'),
+          url('https://static.istories.media/public/fonts/Proto Grotesk-Bold-Web.woff2') format('woff2'),
+          url('https://static.istories.media/public/fonts/Proto Grotesk-Bold-Web.woff') format('woff'),
+          url('https://static.istories.media/public/fonts/Proto Grotesk-Bold-Web.ttf') format('truetype');
+         font-weight: bold;
+         font-style: normal;
+         font-display: swap;
+    }
+
+html {
+      width: 100%;
+      height: 100%;
+      overflow:  hidden;
+      }
+
+.regionName {
+  font: normal 15px "Proto Grotesk";
+  font-display: swap;
+  fill: black;
+  font-size: 0.9vw;
+}
+
+
+.label{
+  font: normal 12px "Proto Grotesk";
+  font-size: 0.67vw;
+}
+
+.legendTitle{
+  font: normal 15px "Proto Grotesk";
+  font-size: 1.2vw;
+}
+.credits{font: normal 15px "Proto Grotesk";
+        fill: #676767;
+        font-size: 1.5vw
+
+}
+
+.notion{font: normal 10px "Proto Grotesk";
+        fill: #676767;
+        font-size: 1.2vw
+
+}
+.title {
+        font: normal 20px "Proto Grotesk";
+        fill: #676767;
+        font-size: 2.4vw
+    }
+
+.title2 {
+        font: normal 27px "Proto Grotesk";
+        fill: #676767;
+        font-size: 1.9vw
+    }
+
+.toolTip {
+    font: normal 15px "Proto Grotesk";
+
+  position: absolute;
+  display: none;
+  min-width: 60px;
+  height: auto;
+  background: none repeat scroll 0 0 #676767;
+  border: 1px solid #676767;
+  padding: 3px;
+  text-align: center;
+  color: white;
+  opacity: 0.9;
+      border-radius: 5px;
+
+}

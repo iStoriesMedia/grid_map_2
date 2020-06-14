@@ -1,0 +1,2033 @@
+{
+    "objects": {
+        "rus_regions_simpl": {
+            "type": "GeometryCollection",
+            "geometries": [
+                {
+                    "type": "MultiPolygon",
+                    "properties": {
+                        "OKTMO": "79000000",
+                        "shtraf": "3360500",
+                        "REGIONENG": "Adygeya",
+                        "short": "\u0410\u0414\u042b\u0413",
+                        "REGION": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0410\u0434\u044b\u0433\u0435\u044f",
+                        "region_pop": 449171
+                    },
+                    "arcs": [
+                        [
+                            [
+                                0
+                            ]
+                        ],
+                        [
+                            [
+                                1
+                            ]
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "OKTMO": "84000000",
+                        "shtraf": "15000",
+                        "REGIONENG": "Altay",
+                        "short": "\u0410\u041b\u0422\u0410",
+                        "REGION": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0410\u043b\u0442\u0430\u0439",
+                        "region_pop": 213703
+                    },
+                    "arcs": [
+                        [
+                            2,
+                            3,
+                            4,
+                            5,
+                            6
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "OKTMO": "01000000",
+                        "shtraf": "197000",
+                        "REGIONENG": "Altayskiy territory",
+                        "short": "\u0410\u041b\u041a\u0420",
+                        "REGION": "\u0410\u043b\u0442\u0430\u0439\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                        "region_pop": 2384812
+                    },
+                    "arcs": [
+                        [
+                            7,
+                            8,
+                            9,
+                            10,
+                            11,
+                            -7,
+                            12,
+                            13
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "OKTMO": "10000000",
+                        "shtraf": "287500",
+                        "REGIONENG": "Amurskaya region\u02b9",
+                        "short": "\u0410\u041c\u0423\u0420",
+                        "REGION": "\u0410\u043c\u0443\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                        "region_pop": 809873
+                    },
+                    "arcs": [
+                        [
+                            14,
+                            15,
+                            16,
+                            17,
+                            18
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "OKTMO": "11000000",
+                        "shtraf": "907905",
+                        "REGIONENG": "Arkhangel\u02b9skaya region\u02b9",
+                        "short": "\u0410\u0420\u0425\u0410",
+                        "REGION": "\u0410\u0440\u0445\u0430\u043d\u0433\u0435\u043b\u044c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c ",
+                        "region_pop": 1139950
+                    },
+                    "arcs": [
+                        [
+                            19,
+                            20,
+                            21,
+                            22,
+                            23,
+                            24,
+                            25,
+                            26
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "OKTMO": "12000000",
+                        "shtraf": "4185300",
+                        "REGIONENG": "Astrakhanskaya region\u02b9",
+                        "short": "\u0410\u0421\u0422\u0420",
+                        "REGION": "\u0410\u0441\u0442\u0440\u0430\u0445\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                        "region_pop": 1021287
+                    },
+                    "arcs": [
+                        [
+                            27,
+                            28,
+                            29,
+                            30,
+                            31
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "OKTMO": "80000000",
+                        "shtraf": "4697600",
+                        "REGIONENG": "Bashkortostan",
+                        "short": "\u0411\u0410\u0428\u041a",
+                        "REGION": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0411\u0430\u0448\u043a\u043e\u0440\u0442\u043e\u0441\u0442\u0430\u043d",
+                        "region_pop": 4071987
+                    },
+                    "arcs": [
+                        [
+                            32,
+                            33,
+                            34,
+                            35,
+                            36,
+                            37,
+                            38,
+                            39
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "OKTMO": "14000000",
+                        "shtraf": "1010000",
+                        "REGIONENG": "Belgorodskaya region\u02b9",
+                        "short": "\u0411\u0415\u041b\u0413",
+                        "REGION": "\u0411\u0435\u043b\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                        "region_pop": 1547936
+                    },
+                    "arcs": [
+                        [
+                            40,
+                            41,
+                            42
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "OKTMO": "15000000",
+                        "shtraf": "148500",
+                        "REGIONENG": "Bryanskaya region\u02b9",
+                        "short": "\u0411\u0420\u042f\u041d",
+                        "REGION": "\u0411\u0440\u044f\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                        "region_pop": 1232940
+                    },
+                    "arcs": [
+                        [
+                            43,
+                            44,
+                            45,
+                            46,
+                            47
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "OKTMO": "81000000",
+                        "shtraf": "1700700",
+                        "REGIONENG": "Buryatiya",
+                        "short": "\u0411\u0423\u0420\u042f",
+                        "REGION": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0411\u0443\u0440\u044f\u0442\u0438\u044f",
+                        "region_pop": 978495
+                    },
+                    "arcs": [
+                        [
+                            48,
+                            49,
+                            50,
+                            51,
+                            52,
+                            53
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "OKTMO": "17000000",
+                        "shtraf": "1695200",
+                        "REGIONENG": "Vladimirskaya region\u02b9",
+                        "short": "\u0412\u041b\u0410\u0414",
+                        "REGION": "\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                        "region_pop": 1405613
+                    },
+                    "arcs": [
+                        [
+                            54,
+                            55,
+                            56,
+                            57,
+                            58
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "OKTMO": "18000000",
+                        "shtraf": "1175500",
+                        "REGIONENG": "Volgogradskaya region\u02b9",
+                        "short": "\u0412\u041e\u041b\u0413",
+                        "REGION": "\u0412\u043e\u043b\u0433\u043e\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                        "region_pop": 2557397
+                    },
+                    "arcs": [
+                        [
+                            59,
+                            60,
+                            61,
+                            -31,
+                            62,
+                            -29,
+                            63,
+                            64,
+                            65,
+                            66,
+                            67,
+                            68
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "OKTMO": "19000000",
+                        "shtraf": "949100",
+                        "REGIONENG": "Vologodskaya region\u02b9",
+                        "short": "\u0412\u041e\u041b\u041e",
+                        "REGION": "\u0412\u043e\u043b\u043e\u0433\u043e\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                        "region_pop": 1191010
+                    },
+                    "arcs": [
+                        [
+                            69,
+                            70,
+                            71,
+                            72,
+                            73,
+                            -21,
+                            74,
+                            -27,
+                            75,
+                            76,
+                            77,
+                            78
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "OKTMO": "20000000",
+                        "shtraf": "1130700",
+                        "REGIONENG": "Voronezhskaya region\u02b9",
+                        "short": "\u0412\u041e\u0420\u041e",
+                        "REGION": "\u0412\u043e\u0440\u043e\u043d\u0435\u0436\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                        "region_pop": 2331147
+                    },
+                    "arcs": [
+                        [
+                            79,
+                            80,
+                            -68,
+                            81,
+                            82,
+                            -42,
+                            83,
+                            84
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "OKTMO": "82000000",
+                        "shtraf": "797500",
+                        "REGIONENG": "Dagestan",
+                        "short": "\u0414\u0410\u0413\u0415",
+                        "REGION": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0414\u0430\u0433\u0435\u0441\u0442\u0430\u043d",
+                        "region_pop": 2990371
+                    },
+                    "arcs": [
+                        [
+                            85,
+                            86,
+                            87,
+                            88
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "OKTMO": "99000000",
+                        "shtraf": "151000",
+                        "REGIONENG": "Yevreyskaya avtonomnaya region\u02b9",
+                        "short": "\u0415\u0412\u0420\u0415",
+                        "REGION": "\u0415\u0432\u0440\u0435\u0439\u0441\u043a\u0430\u044f \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                        "region_pop": 168368
+                    },
+                    "arcs": [
+                        [
+                            -17,
+                            89,
+                            90
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "OKTMO": "76000000",
+                        "shtraf": "2539600",
+                        "REGIONENG": "Zabaykal\u02b9skiy territory",
+                        "short": "\u0417\u0410\u0411\u0410",
+                        "REGION": "\u0417\u0430\u0431\u0430\u0439\u043a\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                        "region_pop": 1087452
+                    },
+                    "arcs": [
+                        [
+                            91,
+                            92,
+                            -19,
+                            93,
+                            -52
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "OKTMO": "24000000",
+                        "shtraf": "1948100",
+                        "REGIONENG": "Ivanovskaya region\u02b9",
+                        "short": "\u0418\u0412\u0410\u041d",
+                        "REGION": "\u0418\u0432\u0430\u043d\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                        "region_pop": 1036909
+                    },
+                    "arcs": [
+                        [
+                            94,
+                            95,
+                            -59,
+                            96,
+                            97
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "OKTMO": "25000000",
+                        "shtraf": "826500",
+                        "REGIONENG": "Irkutskaya region\u02b9",
+                        "short": "\u0418\u0420\u041a\u0423",
+                        "REGION": "\u0418\u0440\u043a\u0443\u0442\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                        "region_pop": 2414913
+                    },
+                    "arcs": [
+                        [
+                            98,
+                            -92,
+                            -51,
+                            99,
+                            -49,
+                            100,
+                            101
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "OKTMO": "83000000",
+                        "shtraf": "10500",
+                        "REGIONENG": "Kabardino-Balkarskaya republic",
+                        "short": "\u041a\u0410\u0411\u0410",
+                        "REGION": "\u041a\u0430\u0431\u0430\u0440\u0434\u0438\u043d\u043e-\u0411\u0430\u043b\u043a\u0430\u0440\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
+                        "region_pop": 860709
+                    },
+                    "arcs": [
+                        [
+                            102,
+                            103,
+                            104,
+                            105
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "OKTMO": "27000000",
+                        "shtraf": "443000",
+                        "REGIONENG": "Kaliningradskaya region\u02b9",
+                        "short": "\u041a\u0410\u041b\u0418",
+                        "REGION": "\u041a\u0430\u043b\u0438\u043d\u0438\u043d\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                        "region_pop": 968944
+                    },
+                    "arcs": [
+                        [
+                            106
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "OKTMO": "29000000",
+                        "shtraf": "130500",
+                        "REGIONENG": "Kaluzhskaya region\u02b9",
+                        "short": "\u041a\u0410\u041b\u0423",
+                        "REGION": "\u041a\u0430\u043b\u0443\u0436\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                        "region_pop": 1010486
+                    },
+                    "arcs": [
+                        [
+                            107,
+                            108,
+                            109,
+                            110,
+                            111,
+                            112,
+                            -45
+                        ]
+                    ]
+                },
+                {
+                    "type": "MultiPolygon",
+                    "properties": {
+                        "OKTMO": "30000000",
+                        "shtraf": "0",
+                        "REGIONENG": "Kamchatskiy territory",
+                        "short": "\u041a\u0410\u041c\u0427",
+                        "REGION": "\u041a\u0430\u043c\u0447\u0430\u0442\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                        "region_pop": 317269
+                    },
+                    "arcs": [
+                        [
+                            [
+                                113,
+                                114,
+                                115
+                            ]
+                        ],
+                        [
+                            [
+                                116
+                            ]
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "OKTMO": "91000000",
+                        "shtraf": "17000",
+                        "REGIONENG": "Karachayevo-Cherkesskaya republic",
+                        "short": "\u041a\u0410\u0420\u0410",
+                        "REGION": "\u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
+                        "region_pop": 469060
+                    },
+                    "arcs": [
+                        [
+                            117,
+                            -106,
+                            118,
+                            119
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "OKTMO": "32000000",
+                        "shtraf": "2331000",
+                        "REGIONENG": "Kemerovskaya region\u02b9",
+                        "short": "\u041a\u0415\u041c\u0415",
+                        "REGION": "\u041a\u0435\u043c\u0435\u0440\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                        "region_pop": 2724990
+                    },
+                    "arcs": [
+                        [
+                            120,
+                            121,
+                            122,
+                            123,
+                            124,
+                            125,
+                            -3,
+                            -12,
+                            126,
+                            -10,
+                            127,
+                            -8,
+                            128,
+                            129
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "OKTMO": "33000000",
+                        "shtraf": "123600",
+                        "REGIONENG": "Kirovskaya region\u02b9",
+                        "short": "\u041a\u0418\u0420\u041e",
+                        "REGION": "\u041a\u0438\u0440\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                        "region_pop": 1304348
+                    },
+                    "arcs": [
+                        [
+                            -26,
+                            130,
+                            131,
+                            132,
+                            133,
+                            134,
+                            135,
+                            136,
+                            -76
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "OKTMO": "34000000",
+                        "shtraf": "1451700",
+                        "REGIONENG": "Kostromskaya region\u02b9",
+                        "short": "\u041a\u041e\u0421\u0422",
+                        "REGION": "\u041a\u043e\u0441\u0442\u0440\u043e\u043c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                        "region_pop": 654390
+                    },
+                    "arcs": [
+                        [
+                            137,
+                            -77,
+                            -137,
+                            138,
+                            139,
+                            -98
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "OKTMO": "03000000",
+                        "shtraf": "21672600",
+                        "REGIONENG": "Krasnodarskiy territory",
+                        "short": "\u041a\u0420\u0421\u0414",
+                        "REGION": "\u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                        "region_pop": 5453329
+                    },
+                    "arcs": [
+                        [
+                            140,
+                            141,
+                            142,
+                            -120
+                        ]
+                    ]
+                },
+                {
+                    "type": "MultiPolygon",
+                    "properties": {
+                        "OKTMO": "04000000",
+                        "shtraf": "36500",
+                        "REGIONENG": "Krasnoyarskiy territory",
+                        "short": "\u041a\u0420\u0410\u0421",
+                        "REGION": "\u041a\u0440\u0430\u0441\u043d\u043e\u044f\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                        "region_pop": 2858773
+                    },
+                    "arcs": [
+                        [
+                            [
+                                143,
+                                144,
+                                145,
+                                146,
+                                147,
+                                -121,
+                                148,
+                                149,
+                                150,
+                                151,
+                                152,
+                                153,
+                                154,
+                                -102
+                            ]
+                        ],
+                        [
+                            [
+                                155,
+                                156
+                            ]
+                        ],
+                        [
+                            [
+                                157
+                            ]
+                        ],
+                        [
+                            [
+                                158
+                            ]
+                        ],
+                        [
+                            [
+                                159
+                            ]
+                        ],
+                        [
+                            [
+                                160
+                            ]
+                        ],
+                        [
+                            [
+                                161,
+                                162,
+                                163
+                            ]
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "OKTMO": "37000000",
+                        "shtraf": "470100",
+                        "REGIONENG": "Kurganskaya region\u02b9",
+                        "short": "\u041a\u0423\u0420\u0413",
+                        "REGION": "\u041a\u0443\u0440\u0433\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                        "region_pop": 869814
+                    },
+                    "arcs": [
+                        [
+                            164,
+                            165,
+                            166,
+                            167
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "OKTMO": "38000000",
+                        "shtraf": "1727500",
+                        "REGIONENG": "Kurskaya region\u02b9",
+                        "short": "\u041a\u0423\u0420\u0421",
+                        "REGION": "\u041a\u0443\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                        "region_pop": 1117378
+                    },
+                    "arcs": [
+                        [
+                            -47,
+                            168,
+                            169,
+                            -84,
+                            -41,
+                            170
+                        ]
+                    ]
+                },
+                {
+                    "type": "MultiPolygon",
+                    "properties": {
+                        "OKTMO": "41000000",
+                        "shtraf": "390000",
+                        "REGIONENG": "Leningradskaya region\u02b9",
+                        "short": "\u041b\u0415\u041d\u0418",
+                        "REGION": "\u041b\u0435\u043d\u0438\u043d\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                        "region_pop": 1775540
+                    },
+                    "arcs": [
+                        [
+                            [
+                                171,
+                                172,
+                                173,
+                                -72,
+                                174,
+                                175,
+                                176,
+                                177
+                            ]
+                        ],
+                        [
+                            [
+                                178,
+                                179,
+                                180,
+                                181
+                            ]
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "OKTMO": "42000000",
+                        "shtraf": "2133300",
+                        "REGIONENG": "Lipetskaya region\u02b9",
+                        "short": "\u041b\u0418\u041f\u0415",
+                        "REGION": "\u041b\u0438\u043f\u0435\u0446\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                        "region_pop": 1157865
+                    },
+                    "arcs": [
+                        [
+                            182,
+                            183,
+                            184,
+                            -85,
+                            -170,
+                            185
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "OKTMO": "44000000",
+                        "shtraf": "15000",
+                        "REGIONENG": "Magadanskaya region\u02b9",
+                        "short": "\u041c\u0410\u0413\u0410",
+                        "REGION": "\u041c\u0430\u0433\u0430\u0434\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                        "region_pop": 148071
+                    },
+                    "arcs": [
+                        [
+                            186,
+                            187,
+                            188,
+                            -114,
+                            189
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "OKTMO": "88000000",
+                        "shtraf": "409000",
+                        "REGIONENG": "Mariy El",
+                        "short": "\u041c\u0410\u0420\u0418",
+                        "REGION": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041c\u0430\u0440\u0438\u0439 \u042d\u043b",
+                        "region_pop": 687435
+                    },
+                    "arcs": [
+                        [
+                            -135,
+                            190,
+                            191,
+                            192
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "OKTMO": "45000000",
+                        "shtraf": "2141500",
+                        "REGIONENG": "Moskva",
+                        "short": "\u041c\u0421\u041a\u0412",
+                        "REGION": "\u041c\u043e\u0441\u043a\u0432\u0430",
+                        "region_pop": 12197596
+                    },
+                    "arcs": [
+                        [
+                            -110,
+                            193
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "OKTMO": "46000000",
+                        "shtraf": "2059000",
+                        "REGIONENG": "Moskovskaya region\u02b9",
+                        "short": "\u041c\u041e\u0421\u041a",
+                        "REGION": "\u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                        "region_pop": 7231068
+                    },
+                    "arcs": [
+                        [
+                            194,
+                            195,
+                            -57,
+                            196,
+                            197,
+                            -111,
+                            -194,
+                            -109,
+                            198
+                        ]
+                    ]
+                },
+                {
+                    "type": "MultiPolygon",
+                    "properties": {
+                        "OKTMO": "47000000",
+                        "shtraf": "1055700",
+                        "REGIONENG": "Murmanskaya region\u02b9",
+                        "short": "\u041c\u0423\u0420\u041c",
+                        "REGION": "\u041c\u0443\u0440\u043c\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                        "region_pop": 766281
+                    },
+                    "arcs": [
+                        [
+                            [
+                                199,
+                                200,
+                                201,
+                                202
+                            ]
+                        ],
+                        [
+                            [
+                                203,
+                                204
+                            ]
+                        ]
+                    ]
+                },
+                {
+                    "type": "MultiPolygon",
+                    "properties": {
+                        "OKTMO": "11000000",
+                        "shtraf": "23500",
+                        "REGIONENG": "Nenetskiy autonomous region",
+                        "short": "\u041d\u0415\u041d\u0415",
+                        "REGION": "\u041d\u0435\u043d\u0435\u0446\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433",
+                        "region_pop": 43373
+                    },
+                    "arcs": [
+                        [
+                            [
+                                205,
+                                206,
+                                -24,
+                                207
+                            ]
+                        ],
+                        [
+                            [
+                                208
+                            ]
+                        ],
+                        [
+                            [
+                                209
+                            ]
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "OKTMO": "22000000",
+                        "shtraf": "2942500",
+                        "REGIONENG": "Nizhegorodskaya region\u02b9",
+                        "short": "\u041d\u0418\u0416\u0415",
+                        "REGION": "\u041d\u0438\u0436\u0435\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                        "region_pop": 3270203
+                    },
+                    "arcs": [
+                        [
+                            210,
+                            211,
+                            212,
+                            213,
+                            214,
+                            215,
+                            -55,
+                            -96,
+                            216,
+                            -139,
+                            -136,
+                            -193,
+                            217
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "OKTMO": "49000000",
+                        "shtraf": "73500",
+                        "REGIONENG": "Novgorodskaya region\u02b9",
+                        "short": "\u041d\u041e\u0412\u0413",
+                        "REGION": "\u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                        "region_pop": 618703
+                    },
+                    "arcs": [
+                        [
+                            -175,
+                            -71,
+                            218,
+                            219
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "OKTMO": "50000000",
+                        "shtraf": "4037100",
+                        "REGIONENG": "Novosibirskaya region\u02b9",
+                        "short": "\u041d\u041e\u0412\u041e",
+                        "REGION": "\u041d\u043e\u0432\u043e\u0441\u0438\u0431\u0438\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                        "region_pop": 2746822
+                    },
+                    "arcs": [
+                        [
+                            220,
+                            221,
+                            222,
+                            -129,
+                            -14
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "OKTMO": "52000000",
+                        "shtraf": "1494600",
+                        "REGIONENG": "Omskaya region\u02b9",
+                        "short": "\u041e\u041c\u0421\u041a",
+                        "REGION": "\u041e\u043c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                        "region_pop": 1978183
+                    },
+                    "arcs": [
+                        [
+                            223,
+                            -222,
+                            224,
+                            225,
+                            226,
+                            227
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "OKTMO": "53000000",
+                        "shtraf": "1918100",
+                        "REGIONENG": "Orenburgskaya region\u02b9",
+                        "short": "\u041e\u0420\u0415\u041d",
+                        "REGION": "\u041e\u0440\u0435\u043d\u0431\u0443\u0440\u0433\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                        "region_pop": 2001110
+                    },
+                    "arcs": [
+                        [
+                            228,
+                            229,
+                            -39,
+                            230,
+                            -37,
+                            231,
+                            232
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "OKTMO": "54000000",
+                        "shtraf": "385000",
+                        "REGIONENG": "Orlovskaya region\u02b9",
+                        "short": "\u041e\u0420\u041b\u041e",
+                        "REGION": "\u041e\u0440\u043b\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                        "region_pop": 765231
+                    },
+                    "arcs": [
+                        [
+                            -113,
+                            233,
+                            -186,
+                            -169,
+                            -46
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "OKTMO": "56000000",
+                        "shtraf": "290500",
+                        "REGIONENG": "Penzenskaya region\u02b9",
+                        "short": "\u041f\u0415\u041d\u0417",
+                        "REGION": "\u041f\u0435\u043d\u0437\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                        "region_pop": 1355618
+                    },
+                    "arcs": [
+                        [
+                            234,
+                            235,
+                            236,
+                            237,
+                            238
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "OKTMO": "57000000",
+                        "shtraf": "3847300",
+                        "REGIONENG": "Permskiy territory",
+                        "short": "\u041f\u0415\u0420\u041c",
+                        "REGION": "\u041f\u0435\u0440\u043c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                        "region_pop": 2637032
+                    },
+                    "arcs": [
+                        [
+                            -34,
+                            239,
+                            240,
+                            241,
+                            242,
+                            243,
+                            244,
+                            -132,
+                            245,
+                            246
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "OKTMO": "05000000",
+                        "shtraf": "1034000",
+                        "REGIONENG": "Primorskiy territory",
+                        "short": "\u041f\u0420\u0418\u041c",
+                        "REGION": "\u041f\u0440\u0438\u043c\u043e\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                        "region_pop": 1933308
+                    },
+                    "arcs": [
+                        [
+                            247,
+                            248
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "OKTMO": "58000000",
+                        "shtraf": "152000",
+                        "REGIONENG": "Pskovskaya region\u02b9",
+                        "short": "\u041f\u0421\u041a\u041e",
+                        "REGION": "\u041f\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                        "region_pop": 651108
+                    },
+                    "arcs": [
+                        [
+                            -176,
+                            -220,
+                            249,
+                            250,
+                            251
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "OKTMO": "26000000",
+                        "shtraf": "0",
+                        "REGIONENG": "Republic Ingushetiya",
+                        "short": "\u0418\u041d\u0413\u0423",
+                        "REGION": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0418\u043d\u0433\u0443\u0448\u0435\u0442\u0438\u044f",
+                        "region_pop": 463893
+                    },
+                    "arcs": [
+                        [
+                            252,
+                            253,
+                            254
+                        ]
+                    ]
+                },
+                {
+                    "type": "MultiPolygon",
+                    "properties": {
+                        "OKTMO": "85000000",
+                        "shtraf": "29000",
+                        "REGIONENG": "Republic Kalmykiya",
+                        "short": "\u041a\u0410\u041b\u041c",
+                        "REGION": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0430\u043b\u043c\u044b\u043a\u0438\u044f",
+                        "region_pop": 280564
+                    },
+                    "arcs": [
+                        [
+                            [
+                                255,
+                                256,
+                                257,
+                                258,
+                                259,
+                                260,
+                                261,
+                                262,
+                                263,
+                                -64,
+                                -28,
+                                264,
+                                -89,
+                                265,
+                                266,
+                                267,
+                                268
+                            ]
+                        ],
+                        [
+                            [
+                                269,
+                                270,
+                                271
+                            ]
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "OKTMO": "86000000",
+                        "shtraf": "45500",
+                        "REGIONENG": "Republic Kareliya",
+                        "short": "\u041a\u0410\u0420\u0415",
+                        "REGION": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0430\u0440\u0435\u043b\u0438\u044f",
+                        "region_pop": 632533
+                    },
+                    "arcs": [
+                        [
+                            -179,
+                            272,
+                            -202,
+                            273,
+                            -204,
+                            274,
+                            -200,
+                            275,
+                            -22,
+                            -74,
+                            276,
+                            -173,
+                            277
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "OKTMO": "87000000",
+                        "shtraf": "474700",
+                        "REGIONENG": "Republic Komi",
+                        "short": "\u041a\u041e\u041c\u0418",
+                        "REGION": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u043c\u0438",
+                        "region_pop": 864424
+                    },
+                    "arcs": [
+                        [
+                            -207,
+                            278,
+                            279,
+                            280,
+                            -246,
+                            -131,
+                            -25
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "OKTMO": "35000000",
+                        "shtraf": "4073100",
+                        "REGIONENG": "Republic Krym",
+                        "short": "\u041a\u0420\u042b\u041c",
+                        "REGION": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0440\u044b\u043c",
+                        "region_pop": 1895915
+                    },
+                    "arcs": [
+                        [
+                            281,
+                            282
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "OKTMO": "89000000",
+                        "shtraf": "2702200",
+                        "REGIONENG": "Republic Mordoviya",
+                        "short": "\u041c\u041e\u0420\u0414",
+                        "REGION": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041c\u043e\u0440\u0434\u043e\u0432\u0438\u044f",
+                        "region_pop": 808888
+                    },
+                    "arcs": [
+                        [
+                            283,
+                            -215,
+                            284,
+                            -213,
+                            285,
+                            -211,
+                            286,
+                            287,
+                            -239
+                        ]
+                    ]
+                },
+                {
+                    "type": "MultiPolygon",
+                    "properties": {
+                        "OKTMO": "98000000",
+                        "shtraf": "700000",
+                        "REGIONENG": "Republic Sakha (Yakutiya)",
+                        "short": "\u0421\u0410\u0425\u0410",
+                        "REGION": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u0430\u0445\u0430 (\u042f\u043a\u0443\u0442\u0438\u044f)",
+                        "region_pop": 956896
+                    },
+                    "arcs": [
+                        [
+                            [
+                                -15,
+                                -93,
+                                -99,
+                                -155,
+                                288,
+                                -156,
+                                289,
+                                290,
+                                -188,
+                                291
+                            ]
+                        ],
+                        [
+                            [
+                                292
+                            ]
+                        ],
+                        [
+                            [
+                                293
+                            ]
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "OKTMO": "95000000",
+                        "shtraf": "1109400",
+                        "REGIONENG": "Republic Khakasiya",
+                        "short": "\u0425\u0410\u041a\u0410",
+                        "REGION": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0425\u0430\u043a\u0430\u0441\u0438\u044f",
+                        "region_pop": 535796
+                    },
+                    "arcs": [
+                        [
+                            -126,
+                            294,
+                            -124,
+                            295,
+                            -122,
+                            -148,
+                            296,
+                            -146,
+                            297,
+                            -162,
+                            298,
+                            -4
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "OKTMO": "60000000",
+                        "shtraf": "1668800",
+                        "REGIONENG": "Rostovskaya region\u02b9",
+                        "short": "\u0420\u041e\u0421\u0422",
+                        "REGION": "\u0420\u043e\u0441\u0442\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                        "region_pop": 4242080
+                    },
+                    "arcs": [
+                        [
+                            -65,
+                            -264,
+                            299,
+                            -262,
+                            300,
+                            -260,
+                            301,
+                            -258,
+                            302,
+                            -256,
+                            303,
+                            -270,
+                            304,
+                            -142,
+                            305,
+                            -82,
+                            -67,
+                            306
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "OKTMO": "61000000",
+                        "shtraf": "19200",
+                        "REGIONENG": "Ryazanskaya region\u02b9",
+                        "short": "\u0420\u042f\u0417\u0410",
+                        "REGION": "\u0420\u044f\u0437\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                        "region_pop": 1135438
+                    },
+                    "arcs": [
+                        [
+                            307,
+                            -197,
+                            -56,
+                            -216,
+                            -284,
+                            -238,
+                            308,
+                            -184
+                        ]
+                    ]
+                },
+                {
+                    "type": "MultiPolygon",
+                    "properties": {
+                        "OKTMO": "36000000",
+                        "shtraf": "474500",
+                        "REGIONENG": "Samarskaya region\u02b9",
+                        "short": "\u0421\u0410\u041c\u0410",
+                        "REGION": "\u0421\u0430\u043c\u0430\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                        "region_pop": 3212676
+                    },
+                    "arcs": [
+                        [
+                            [
+                                309,
+                                310
+                            ]
+                        ],
+                        [
+                            [
+                                311,
+                                312,
+                                -229,
+                                313,
+                                314
+                            ]
+                        ]
+                    ]
+                },
+                {
+                    "type": "MultiPolygon",
+                    "properties": {
+                        "OKTMO": "40000000",
+                        "shtraf": "520000",
+                        "REGIONENG": "Sankt-Peterburg",
+                        "short": "\u0421\u0410\u041d\u041a",
+                        "REGION": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
+                        "region_pop": 5191690
+                    },
+                    "arcs": [
+                        [
+                            [
+                                315,
+                                -181
+                            ]
+                        ],
+                        [
+                            [
+                                -178,
+                                316
+                            ]
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "OKTMO": "63000000",
+                        "shtraf": "3859000",
+                        "REGIONENG": "Saratovskaya region\u02b9",
+                        "short": "\u0421\u0410\u0420\u0410",
+                        "REGION": "\u0421\u0430\u0440\u0430\u0442\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                        "region_pop": 2493024
+                    },
+                    "arcs": [
+                        [
+                            -81,
+                            317,
+                            -236,
+                            318,
+                            319,
+                            -314,
+                            320,
+                            -61,
+                            321,
+                            -69
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "OKTMO": "64000000",
+                        "shtraf": "4691000",
+                        "REGIONENG": "Sakhalinskaya region\u02b9",
+                        "short": "\u0421\u0425\u041b\u041d",
+                        "REGION": "\u0421\u0430\u0445\u0430\u043b\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                        "region_pop": 488391
+                    },
+                    "arcs": [
+                        [
+                            322
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "OKTMO": "65000000",
+                        "shtraf": "5632100",
+                        "REGIONENG": "Sverdlovskaya region\u02b9",
+                        "short": "\u0421\u0412\u0415\u0420",
+                        "REGION": "\u0421\u0432\u0435\u0440\u0434\u043b\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                        "region_pop": 4327472
+                    },
+                    "arcs": [
+                        [
+                            -281,
+                            323,
+                            324,
+                            -168,
+                            325,
+                            -35,
+                            -247
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "OKTMO": "67000000",
+                        "shtraf": "335700",
+                        "REGIONENG": "Sevastopol\u02b9",
+                        "short": "\u0421\u0415\u0412\u0410",
+                        "REGION": "\u0421\u0435\u0432\u0430\u0441\u0442\u043e\u043f\u043e\u043b\u044c",
+                        "region_pop": 398973
+                    },
+                    "arcs": [
+                        [
+                            -282,
+                            326
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "OKTMO": "90000000",
+                        "shtraf": "30000",
+                        "REGIONENG": "Severnaya Osetiya - Alaniya",
+                        "short": "\u041e\u0421\u0415\u0422",
+                        "REGION": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u0435\u0432\u0435\u0440\u043d\u0430\u044f \u041e\u0441\u0435\u0442\u0438\u044f - \u0410\u043b\u0430\u043d\u0438\u044f",
+                        "region_pop": 705270
+                    },
+                    "arcs": [
+                        [
+                            327,
+                            -104,
+                            328,
+                            329,
+                            -255
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "OKTMO": "66000000",
+                        "shtraf": "42500",
+                        "REGIONENG": "Smolenskaya region\u02b9",
+                        "short": "\u0421\u041c\u041e\u041b",
+                        "REGION": "\u0421\u043c\u043e\u043b\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                        "region_pop": 964791
+                    },
+                    "arcs": [
+                        [
+                            330,
+                            -251,
+                            331,
+                            -199,
+                            -108,
+                            -44
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "OKTMO": "07000000",
+                        "shtraf": "562500",
+                        "REGIONENG": "Stavropol\u02b9skiy territory",
+                        "short": "\u0421\u0422\u0410\u0412",
+                        "REGION": "\u0421\u0442\u0430\u0432\u0440\u043e\u043f\u043e\u043b\u044c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                        "region_pop": 2799473
+                    },
+                    "arcs": [
+                        [
+                            -305,
+                            -272,
+                            332,
+                            -268,
+                            333,
+                            -266,
+                            -88,
+                            334,
+                            -329,
+                            -103,
+                            -118,
+                            -143
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "OKTMO": "68000000",
+                        "shtraf": "1338000",
+                        "REGIONENG": "Tambovskaya region\u02b9",
+                        "short": "\u0422\u0410\u041c\u0411",
+                        "REGION": "\u0422\u0430\u043c\u0431\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                        "region_pop": 1062421
+                    },
+                    "arcs": [
+                        [
+                            -80,
+                            -185,
+                            -309,
+                            -237,
+                            -318
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "OKTMO": "92000000",
+                        "shtraf": "44043700",
+                        "REGIONENG": "Tatarstan",
+                        "short": "\u0422\u0410\u0422\u0410",
+                        "REGION": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0422\u0430\u0442\u0430\u0440\u0441\u0442\u0430\u043d",
+                        "region_pop": 3855037
+                    },
+                    "arcs": [
+                        [
+                            335,
+                            336,
+                            337,
+                            -191,
+                            -134,
+                            338,
+                            -40,
+                            -230,
+                            -313,
+                            339,
+                            340,
+                            341
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "OKTMO": "28000000",
+                        "shtraf": "139000",
+                        "REGIONENG": "Tverskaya region\u02b9",
+                        "short": "\u0422\u0412\u0415\u0420",
+                        "REGION": "\u0422\u0432\u0435\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                        "region_pop": 1315071
+                    },
+                    "arcs": [
+                        [
+                            -219,
+                            -70,
+                            342,
+                            343,
+                            -195,
+                            -332,
+                            -250
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "OKTMO": "69000000",
+                        "shtraf": "6737300",
+                        "REGIONENG": "Tomskaya region\u02b9",
+                        "short": "\u0422\u041e\u041c\u0421",
+                        "REGION": "\u0422\u043e\u043c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                        "region_pop": 1074453
+                    },
+                    "arcs": [
+                        [
+                            -224,
+                            344,
+                            345,
+                            -149,
+                            -130,
+                            -223
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "OKTMO": "70000000",
+                        "shtraf": "2094800",
+                        "REGIONENG": "Tul\u02b9skaya region\u02b9",
+                        "short": "\u0422\u0423\u041b\u042c",
+                        "REGION": "\u0422\u0443\u043b\u044c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                        "region_pop": 1513570
+                    },
+                    "arcs": [
+                        [
+                            -183,
+                            -234,
+                            -112,
+                            -198,
+                            -308
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "OKTMO": "93000000",
+                        "shtraf": "43000",
+                        "REGIONENG": "Tyva",
+                        "short": "\u0422\u042b\u0412\u0410",
+                        "REGION": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0422\u044b\u0432\u0430",
+                        "region_pop": 313777
+                    },
+                    "arcs": [
+                        [
+                            -299,
+                            -164,
+                            346,
+                            -144,
+                            -101,
+                            -54,
+                            347,
+                            -5
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "OKTMO": "71000000",
+                        "shtraf": "1240700",
+                        "REGIONENG": "Tyumenskaya region\u02b9",
+                        "short": "\u0422\u042e\u041c\u0415",
+                        "REGION": "\u0422\u044e\u043c\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c ",
+                        "region_pop": 1429232
+                    },
+                    "arcs": [
+                        [
+                            348,
+                            -345,
+                            -228,
+                            349,
+                            -226,
+                            350,
+                            -165,
+                            -325
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "OKTMO": "94000000",
+                        "shtraf": "679900",
+                        "REGIONENG": "Udmurtskaya republic",
+                        "short": "\u0423\u0414\u041c\u0423",
+                        "REGION": "\u0423\u0434\u043c\u0443\u0440\u0442\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
+                        "region_pop": 1517472
+                    },
+                    "arcs": [
+                        [
+                            -245,
+                            351,
+                            -243,
+                            352,
+                            353,
+                            -240,
+                            -33,
+                            -339,
+                            -133
+                        ]
+                    ]
+                },
+                {
+                    "type": "MultiPolygon",
+                    "properties": {
+                        "OKTMO": "73000000",
+                        "shtraf": "334000",
+                        "REGIONENG": "Ul\u02b9yanovskaya region\u02b9",
+                        "short": "\u0423\u041b\u042c\u042f",
+                        "REGION": "\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                        "region_pop": 1262549
+                    },
+                    "arcs": [
+                        [
+                            [
+                                354,
+                                -337,
+                                355,
+                                -342,
+                                356,
+                                -311,
+                                357,
+                                -319,
+                                -235,
+                                -288
+                            ]
+                        ],
+                        [
+                            [
+                                -340,
+                                -312,
+                                358
+                            ]
+                        ]
+                    ]
+                },
+                {
+                    "type": "MultiPolygon",
+                    "properties": {
+                        "OKTMO": "08000000",
+                        "shtraf": "715300",
+                        "REGIONENG": "Khabarovskiy territory",
+                        "short": "\u0425\u0410\u0411\u0410",
+                        "REGION": "\u0425\u0430\u0431\u0430\u0440\u043e\u0432\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
+                        "region_pop": 1338305
+                    },
+                    "arcs": [
+                        [
+                            [
+                                -248,
+                                359,
+                                -90,
+                                -16,
+                                -292,
+                                -187,
+                                360
+                            ]
+                        ],
+                        [
+                            [
+                                361
+                            ]
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "OKTMO": "71000000",
+                        "shtraf": "740600",
+                        "REGIONENG": "Khanty-Mansiyskiy autonomous region - Yugra",
+                        "short": "\u0425\u0410\u041d\u0422",
+                        "REGION": "\u0425\u0430\u043d\u0442\u044b-\u041c\u0430\u043d\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433 \u2013 \u042e\u0433\u0440\u0430",
+                        "region_pop": 1612076
+                    },
+                    "arcs": [
+                        [
+                            362,
+                            -150,
+                            -346,
+                            -349,
+                            -324,
+                            -280
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "OKTMO": "75000000",
+                        "shtraf": "6826500",
+                        "REGIONENG": "Chelyabinskaya region\u02b9",
+                        "short": "\u0427\u0415\u041b\u042f",
+                        "REGION": "\u0427\u0435\u043b\u044f\u0431\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                        "region_pop": 3497274
+                    },
+                    "arcs": [
+                        [
+                            -326,
+                            -167,
+                            363,
+                            -232,
+                            -36
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "OKTMO": "96000000",
+                        "shtraf": "20000",
+                        "REGIONENG": "Chechenskaya republic",
+                        "short": "\u0427\u0415\u0427\u0415",
+                        "REGION": "\u0427\u0435\u0447\u0435\u043d\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
+                        "region_pop": 1370268
+                    },
+                    "arcs": [
+                        [
+                            364,
+                            -253,
+                            -330,
+                            -335,
+                            -87
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "OKTMO": "97000000",
+                        "shtraf": "693200",
+                        "REGIONENG": "Chuvashiya",
+                        "short": "\u0427\u0423\u0412\u0410",
+                        "REGION": "\u0427\u0443\u0432\u0430\u0448\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
+                        "region_pop": 1238071
+                    },
+                    "arcs": [
+                        [
+                            -338,
+                            -355,
+                            -287,
+                            -218,
+                            -192
+                        ]
+                    ]
+                },
+                {
+                    "type": "MultiPolygon",
+                    "properties": {
+                        "OKTMO": "77000000",
+                        "shtraf": "57000",
+                        "REGIONENG": "Chukotskiy autonomous region",
+                        "short": "\u0427\u0423\u041a\u041e",
+                        "REGION": "\u0427\u0443\u043a\u043e\u0442\u0441\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433",
+                        "region_pop": 50540
+                    },
+                    "arcs": [
+                        [
+                            [
+                                -115,
+                                -189,
+                                -291,
+                                365
+                            ]
+                        ],
+                        [
+                            [
+                                366
+                            ]
+                        ],
+                        [
+                            [
+                                367
+                            ]
+                        ]
+                    ]
+                },
+                {
+                    "type": "MultiPolygon",
+                    "properties": {
+                        "OKTMO": "71000000",
+                        "shtraf": "1374000",
+                        "REGIONENG": "Yamalo-Nenetskiy autonomous region",
+                        "short": "\u042f\u041c\u0410\u041b",
+                        "REGION": "\u042f\u043c\u0430\u043b\u043e-\u041d\u0435\u043d\u0435\u0446\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433",
+                        "region_pop": 539985
+                    },
+                    "arcs": [
+                        [
+                            [
+                                -279,
+                                -206,
+                                368,
+                                -153,
+                                369,
+                                -151,
+                                -363
+                            ]
+                        ],
+                        [
+                            [
+                                370
+                            ]
+                        ],
+                        [
+                            [
+                                371
+                            ]
+                        ],
+                        [
+                            [
+                                372
+                            ]
+                        ],
+                        [
+                            [
+                                373
+                            ]
+                        ]
+                    ]
+                },
+                {
+                    "type": "Polygon",
+                    "properties": {
+                        "OKTMO": "78000000",
+                        "shtraf": "0",
+                        "REGIONENG": "Yaroslavskaya region\u02b9",
+                        "short": "\u042f\u0420\u041e\u0421",
+                        "REGION": "\u042f\u0440\u043e\u0441\u043b\u0430\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+                        "region_pop": 1271629
+                    },
+                    "arcs": [
+                        [
+                            374,
+                            -78,
+                            -138,
+                            -97,
+                            -58,
+                            -196,
+                            -344
+                        ]
+                    ]
+                },
+                {
+                    "type": "MultiPolygon",
+                    "properties": {
+                        "OKTMO": "-",
+                        "shtraf": "1000",
+                        "REGIONENG": "Baykonur",
+                        "short": "\u0411\u0419\u041a\u041d\u0420",
+                        "REGION": "\u0411\u0430\u0439\u043a\u043e\u043d\u0443\u0440",
+                        "region_pop": 0
+                    },
+                    "arcs": [
+                        [
+                            [
+                                0
+                            ]
+                        ],
+                        [
+                            [
+                                1
+                            ]
+                        ]
+                    ]
+                }
+            ]
+        }
+    }
+}
