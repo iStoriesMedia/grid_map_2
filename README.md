@@ -1,2 +1,2 @@
 # grid_map_2
-Код плиточной карты к тексту о штрафах, вынесенных россиянам во время эпидемии коронавируса — https://github.com/iStoriesMedia/bar_chart_2. Если хотите, то можете использовать этот код, чтобы сделать такой же график для своего материала.
+Код плиточной карты к тексту о штрафах, вынесенных россиянам во время эпидемии коронавируса — https://www.istories.media/investigations/2020/06/15/rossiyane-nagulyali-polmilliarda-rublei-shtrafov-v-aprele-i-mae-sudi-shtampuyut-resheniya-sotnyami-v-den-issledovanie-vazhnikh-istorii-i-kholoda/. Если хотите, то можете использовать этот код, чтобы сделать такой же график для своего материала.
