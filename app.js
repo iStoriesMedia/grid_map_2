@@ -172,7 +172,8 @@ function drawGridMap(url) {
       .attr('y', height*0.99)
 
 
-
+    legend.shapeWidth(cellSize);
+    legend.shapeHeight(cellSize/2);
 
 
     region.attr("transform", `translate(${width/2}, ${height/2})`);
